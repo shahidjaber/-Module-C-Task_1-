@@ -1,7 +1,7 @@
 
 let myObj = {
     firstName: "Muhammad",
-    lastName: "Shhaid",
+    lastName: "Shahid",
     age: 27
 };
 
